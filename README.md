@@ -6,22 +6,13 @@ I'm a software engineer with 3 years experience so far, and I love working on si
 I mostly work in Web Development and have experience with plain HTML/CSS/JS as well as a few frameworks including:
 </p>
 
-<span>
 <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width="35" height="35" alt="Angular & AngularJS">
-</span>
-
-<span>
 <a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" height="35" alt="React & React Native">
 </a>
-</span>
-
-
-<span>
 <a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="35" height="35" alt="Bootstrap v3+">
 </a>
-</span>
 
 ### Programming Languages
 Ranked by Experience - Top is most
