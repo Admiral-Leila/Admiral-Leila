@@ -7,13 +7,13 @@ I mostly work in Web Development and have experience with plain HTML/CSS/JS as w
 </p>
 
 <p align="center"><a href="https://angular.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width="35" height="35" alt="Angular & AngularJS">
-<a>
+<a href="https://reactjs.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" height="35" alt="React & React Native">
 </a>
-<a>
+<a href="https://getbootstrap.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="35" height="35" alt="Bootstrap v3+">
 </a>
-<a>
+<a href="https://jquery.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="35" height="35" alt="jQuery"/></a></p>
 
 ### Programming Languages
