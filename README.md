@@ -12,7 +12,9 @@ I mostly work in Web Development and have experience with plain HTML/CSS/JS as w
 </a>
 <a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="35" height="35" alt="Bootstrap v3+">
-</a></p>
+</a>
+<a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="35" height="35" alt="jQuery"/></a></p>
 
 ### Programming Languages
 Ranked by Experience - Top is most
