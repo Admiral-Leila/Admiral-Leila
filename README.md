@@ -19,9 +19,10 @@ Ranked by Experience - Top is most
 1. JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="30" height="30"/></a>
 2. Typescript <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="JavaScript Logo" width="30" height="30"/></a>
 3. Go(Lang) <a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GoLang Logo" width="30" height="30"/></a>
-4. .NET (Visual Basic, C#) <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dot NET Logo" width="30" height="30"/></a>
+4. Java (jdk8+) <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Oracle Java Logo" width="30" height="30"/></a>
+5. .NET (Visual Basic, C#) <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dot NET Logo" width="30" height="30"/></a>
 
-5. C/C++
+6. C/C++
 
 
 ## Landing Page
