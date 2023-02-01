@@ -1,7 +1,7 @@
 ## Leila
 <p>Hi there :wave: I'm Leila! It's nice to meet you! 
 
-I'm a software engineer with 3 years experience so far, and I love working on side projects in my spare time at home. Watch this space! :smile:
+I'm a software engineer with 4+ years experience so far, and I love working on side projects in my spare time at home. Watch this space! :smile:
 
 I mostly work in Web Development and have experience with plain HTML/CSS/JS as well as a few frameworks including:
 </p>
